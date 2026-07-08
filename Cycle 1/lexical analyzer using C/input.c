@@ -1,19 +1,5 @@
-#include<stdio.h>
-
-// This is a comment
-
+# include <stdio.h>
 int main()
 {
-    int a = 10;
-    int b = 20;
-
-    /* Multi-line
-       comment */
-
-    if(a < b)
-    {
-        a = a + b;
-    }
-
-    return 0;
+int x = 10 + y;
 }
